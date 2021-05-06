@@ -14,7 +14,7 @@ int mnth;
 int main()
 {
 printf("-----------------------------------------------------------------------\n");
-printf("	\tWELCOME TO JAES AGE CALCULATOR\n");
+printf("	\tWELCOME TO JANA AGE CALCULATOR\n");
 printf("				\t\t\tWritten by JANA\n");
 printf("-----------------------------------------------------------------------\n");
 printf("ENTER TODAY'S DATE::");
